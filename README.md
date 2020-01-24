@@ -16,12 +16,11 @@ __To get the certificate of completion with the mention "_Machine Learning_", yo
 **#1 - Cleaning & Exploratory Data Pandas:**    
 Objetive: Get familiarized with Pandas, how to clean and explore data. Data structure with python.  
 
-- [Notebooks Repaso](https://github.com/SaturdaysAI-Tucson/Itinerario_MachineLearning/tree/master/module_1_introduction) 
-- [Notebook Pandas](https://drive.google.com/open?id=1RbQNx_rIuxjDU3AYWWwB0w7iLmfv-34A)
-- [Video Pandas](https://www.youtube.com/watch?v=fwWCw_cE5aI&feature=youtu.be)  
-- [Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/#numpy)
-
 Session 1. Python Crash Course.
+
+- [Notebook](https://github.com/SaturdaysAI-Tucson/Machine-Learning/tree/master/01-Python-Crash-Course)
+
+
 
 
 
